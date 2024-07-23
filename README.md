@@ -8,8 +8,8 @@ Clone the Repository
 
  git clone https://github.com/xhevrije12/react-task1.git
 
-Install dependencies
-npm install
+Install dependencies on terminal
+'npm install' 
 
 Start the application
-npm start
+'npm start'
