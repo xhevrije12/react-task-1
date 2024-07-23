@@ -1,0 +1,27 @@
+.domain-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    width: calc(33.333% - 20px);
+    box-sizing: border-box;
+    
+  }
+  
+  .domain-item .icon {
+    margin-right: 10px;
+   
+  }
+  
+  .domain-item .content h3 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .domain-item .content p {
+    margin: 5px 0 0;
+    font-size: 14px;
+  }
+  
